@@ -222,8 +222,6 @@ This homework is graded based on the following criteria:
 
   * Includes column definitions for all four models outlined in the homework instructions.
 
-  * Includes model associations outlined in the homework instructions.
-
 ### Repository Quality: 13%
 
 * Repository has a unique name.
